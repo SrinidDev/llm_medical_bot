@@ -1,0 +1,35 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+langchain
+pinecone-client
+# langchain==0.0.225
+flask
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+langchain-community
+pdf2image
+langsmith
+ollama
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+wikipedia
+arxiv
+langchainhub
+cassio
+beautifulsoup4
+langchain-groq
+sentence_transformers
+astrapy
+langchain_pinecone
+flask
+huggingface_hub[cli]
+-e .
